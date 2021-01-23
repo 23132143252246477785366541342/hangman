@@ -1,5 +1,6 @@
 {
- "homepage": "https://23132143252246477785366541342.github.io/hangman/", "name": "hangman",
+ "homepage": ".",
+ "name": "hangman",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
